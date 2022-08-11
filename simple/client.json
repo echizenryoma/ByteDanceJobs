@@ -1,0 +1,696 @@
+{"title":"跨平台客户端架构师-今日头条","code":"Q6977A","job_type":"客户端","min_salary":40,"max_salary":80,"city":"深圳","hc":3}
+{"title":"Android应用开发工程师 - Pico","code":"C2685","job_type":"客户端","min_salary":35,"max_salary":65,"city":"青岛","hc":2}
+{"title":"Android蓝牙驱动工程师-Pico","code":"H9405","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":1}
+{"title":"iOS研发工程师（工具方向） - 剪映","code":"LNLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"后端开发工程师 - 小游戏","code":"G7493","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"Flutter应用开发工程师-Pico","code":"A8109","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":1}
+{"title":"Android研发工程师（商业化方向） - 剪映","code":"QNLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"Android研发工程师-国际化电商C端","code":"J2HCL","job_type":"客户端","min_salary":26,"max_salary":45,"city":"上海","hc":20}
+{"title":"Unity渲染引擎开发工程师-Pico","code":"Q7666","job_type":"客户端","min_salary":30,"max_salary":50,"city":"广州","hc":23}
+{"title":"跨平台客户端C++工程师","code":"4UY1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"上海","hc":10}
+{"title":"Android/iOS研发工程师（架构品质优化）——  今日头条-内容生态-客户端","code":"H0086","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"Android技术专家-Pico","code":"S3515","job_type":"客户端","min_salary":40,"max_salary":70,"city":"北京","hc":4}
+{"title":"客户端leader","code":"J6267","job_type":"客户端","min_salary":35,"max_salary":70,"city":"北京","hc":1}
+{"title":"Android研发工程师（基础技术方向） - 剪映","code":"JD9LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"iOS移动端leader-飞书业务中台","code":"H8851","job_type":"客户端","min_salary":45,"max_salary":100,"city":"上海","hc":2}
+{"title":"iOS研发工程师（商业化方向） - 剪映","code":"WBLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"GPU系统优化专家-Pico","code":"U8729","job_type":"客户端","min_salary":40,"max_salary":70,"city":"深圳","hc":5}
+{"title":"客户端高阶-音乐","code":"C5434","job_type":"客户端","min_salary":40,"max_salary":70,"city":"上海","hc":3}
+{"title":"【Android开发工程师-Pico】","code":"P6742","job_type":"客户端","min_salary":25,"max_salary":70,"city":"北京","hc":5}
+{"title":"Android研发工程师 - 短视频产品基础体验优化（北京/上海/杭州）","code":"U3474","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":3}
+{"title":"高级安卓开发工程师-pico","code":"Q4971","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":7}
+{"title":"iOS研发工程师-国际化电商C端","code":"GMCL","job_type":"客户端","min_salary":25,"max_salary":45,"city":"上海","hc":20}
+{"title":"Android Leader-抖音","code":"JN2C1","job_type":"客户端","min_salary":40,"max_salary":60,"city":"上海","hc":1}
+{"title":"Unreal开发工程师-Pico","code":"Y8187","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":15}
+{"title":"地图数据平台工程师-Android客户端","code":"G6389","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":10}
+{"title":"iOS研发工程师（商业化方向） - 国际化剪映","code":"JWBLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"客户端资深研发工程师-抖音电商C端（北/上/杭）","code":"D6881","job_type":"客户端","min_salary":35,"max_salary":45,"city":"北京","hc":20}
+{"title":"C++开发工程师-Pico","code":"R5246","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":1}
+{"title":"视频虚拟人制作研发负责人-Pico","code":"G4587","job_type":"客户端","min_salary":50,"max_salary":70,"city":"北京","hc":2}
+{"title":"iOS开发工程师-直播","code":"V3460","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":4}
+{"title":"后端开发工程师 - 小游戏","code":"R6541","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":5}
+{"title":"视频生产研发负责人-Pico","code":"E9331","job_type":"客户端","min_salary":40,"max_salary":70,"city":"北京","hc":2}
+{"title":"Android开发工程师-直播","code":"D3191","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":8}
+{"title":"Android研发工程师（社区方向） - 国际化剪映","code":"JSNLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"Android架构师-今日头条","code":"D5196","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"客户端研发工程师 - 小游戏","code":"G0798","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"UE4开发工程师-pico视频","code":"Q9661","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"Android系统应用开发工程师（语音方向）-Pico","code":"U4866","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":1}
+{"title":"客户端研发工程师 - 小游戏","code":"P6933","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"Android开发工程师-Pico","code":"G8234","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"Android高级开发工程师 - 国际化短视频（内容发现方向）","code":"X8217","job_type":"客户端","min_salary":30,"max_salary":65,"city":"北京","hc":3}
+{"title":"iOS 资深研发工程师-内容发现","code":"F1951","job_type":"客户端","min_salary":35,"max_salary":55,"city":"北京","hc":1}
+{"title":"iOS研发工程师（基础技术方向） - 剪映","code":"JSGLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"Android开发工程师—搜索方向","code":"PXJ1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":15}
+{"title":"资深iOS开发工程师","code":"J8S2P","job_type":"客户端","min_salary":30,"max_salary":80,"city":"北京","hc":5}
+{"title":"iOS开发工程师-抖音","code":"3GTV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":15}
+{"title":"直播Android 客户端负责人-抖音","code":"JVE8P","job_type":"客户端","min_salary":40,"max_salary":70,"city":"北京","hc":2}
+{"title":"Android研发工程师-抖音","code":"3ETV","job_type":"客户端","min_salary":25,"max_salary":60,"city":"北京","hc":15}
+{"title":"高级Android客户端研发工程师 — 穿山甲","code":"JB32","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":5}
+{"title":"iOS开发工程师-抖音/直播","code":"JE962","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":20}
+{"title":"Android研发工程师 — 抖音基础技术","code":"QLT1","job_type":"客户端","min_salary":18,"max_salary":40,"city":"杭州","hc":5}
+{"title":"抖音Android高级工程师 - 搜索方向","code":"J3LAL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"广告系统-客户端研发技术专家-Android","code":"JK2Y1","job_type":"客户端","min_salary":40,"max_salary":60,"city":"深圳","hc":5}
+{"title":"浏览器内核工程师 - 飞书（北京/上海/深圳/广州/三亚）","code":"RSEW1","job_type":"客户端","min_salary":50,"max_salary":80,"city":"北京","hc":5}
+{"title":"Android 安全研发工程师","code":"JXS9P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":1}
+{"title":"客户端研发工程师/专家","code":"JLVKV","job_type":"客户端","min_salary":50,"max_salary":80,"city":"三亚","hc":10}
+{"title":"Android研发工程师（基础技术方向） - 国际化剪映","code":"J56LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"Unity3D开发工程师（虚拟直播方向）-抖音","code":"MLVV","job_type":"客户端","min_salary":50,"max_salary":80,"city":"北京","hc":5}
+{"title":"Android 开发（高级）工程师 - 业务中台","code":"JUPHV","job_type":"客户端","min_salary":30,"max_salary":50,"city":"广州","hc":5}
+{"title":"音视频 SDK 研发工程师","code":"JMXGP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":4}
+{"title":"iOS开发工程师 - 剪映","code":"J1561","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":10}
+{"title":"游戏客户端开发工程师","code":"JBDW1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"Android高级开发工程师 - 短视频（用户增长方向）","code":"RR3P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":10}
+{"title":"Android开发工程师-Cloud IDE","code":"CTQP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":15}
+{"title":"PC客户端开发工程师 — lark","code":"RQ8R1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":5}
+{"title":"macOS 开发工程师 — 创新工具","code":"8T8H1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":3}
+{"title":"Android研发工程师 — 抖音基础技术","code":"JJ8C1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":10}
+{"title":"iOS自动化测试研发工程师-抖音iOS基础技术","code":"BLS2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":10}
+{"title":"iOS开发工程师 - 住小帮","code":"JFTLP","job_type":"客户端","min_salary":25,"max_salary":35,"city":"北京","hc":4}
+{"title":"高级iOS开发工程师 — 基础技术","code":"8KUM1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":10}
+{"title":"U3D开发工程师","code":"JJ1ML","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":2}
+{"title":"Android研发工程师（基础技术方向） - 国际化剪映","code":"YNLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"Android开发工程师 — 抖音直播社区","code":"4MSV","job_type":"客户端","min_salary":30,"max_salary":50,"city":"深圳","hc":15}
+{"title":"资深Android研发工程师-抖音/直播","code":"U6J1","job_type":"客户端","min_salary":25,"max_salary":45,"city":"北京","hc":4}
+{"title":"iOS研发工程师- 抖音社交","code":"9351","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"风控情报客户端分析工程师","code":"R6D2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":1}
+{"title":"Android高级开发工程师-Pico","code":"DC42","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":2}
+{"title":"Android资深研发工程师（系统级优化）-抖音基础技术","code":"M79P","job_type":"客户端","min_salary":30,"max_salary":55,"city":"北京","hc":10}
+{"title":"C++开发（高级/资深）工程师 — 上海/北京","code":"J73H1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":10}
+{"title":"Android开发工程师-基础技术","code":"MWR1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":15}
+{"title":"iOS研发工程师（基础技术方向） - 剪映","code":"JMBLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"iOS资深研发工程师-抖音电商C端","code":"J73U2","job_type":"客户端","min_salary":35,"max_salary":45,"city":"杭州","hc":20}
+{"title":"Android研发工程师（社区方向） - 剪映","code":"JLNLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"客户端工程师-跨端方向","code":"L5U2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"C++/Linux客户端研发工程师-产品研发和工程架构部","code":"J1KQL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":20}
+{"title":"Unity研发工程师-Pico","code":"J1A5V","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":2}
+{"title":"资深Android功耗优化工程师-Pico","code":"JFUQL","job_type":"客户端","min_salary":40,"max_salary":70,"city":"北京","hc":10}
+{"title":"iOS资深研发工程师-内容发现","code":"JCXAV","job_type":"客户端","min_salary":35,"max_salary":65,"city":"上海","hc":20}
+{"title":"Android研发工程师（网络优化）-抖音基础技术","code":"JW36P","job_type":"客户端","min_salary":30,"max_salary":55,"city":"北京","hc":10}
+{"title":"Android研发工程师（基础技术方向） - 剪映","code":"K9LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"Unity 3D开发工程师-Pico","code":"JD2D2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"客户端高级架构师 -短视频","code":"9C3P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":10}
+{"title":"iOS研发工程师-端智能方向","code":"JX1F2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":10}
+{"title":"Unity高级工程师-Pico","code":"JQ92V","job_type":"客户端","min_salary":50,"max_salary":80,"city":"北京","hc":2}
+{"title":"Unity技术负责人-Pico","code":"RHSV","job_type":"客户端","min_salary":25,"max_salary":40,"city":"北京","hc":5}
+{"title":"高级Android开发工程师 — 基础技术","code":"JW5D1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":10}
+{"title":"iOS开发工程师-飞书（北京/杭州/深圳）","code":"8ABV1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"C++/Linux客户端研发工程师-产品研发和工程架构部","code":"J39LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":20}
+{"title":"Android研发工程师（工具方向） - 剪映","code":"JWALL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"抖音iOS基础技术 - Swift方向 - iOS研发工程师","code":"JNRCP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":6}
+{"title":"iOS业务架构专家 — 今日头条","code":"R9729","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":20}
+{"title":"PC客户端开发工程师 — 创新工具","code":"JG1H1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":3}
+{"title":"iOS研发工程师（基础技术方向） - 国际化剪映","code":"3NLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"iOS架构师-抖音iOS基础技术","code":"JQYJ2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":10}
+{"title":"iOS资深研发工程师-抖音iOS基础技术","code":"JSEJ2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":10}
+{"title":"客户端Rust/C++工程师 - 飞书品质建设（北京/深圳）","code":"HQC1","job_type":"客户端","min_salary":40,"max_salary":70,"city":"北京","hc":2}
+{"title":"iOS开发leader-飞书文档","code":"JMQAV","job_type":"客户端","min_salary":50,"max_salary":100,"city":"深圳","hc":1}
+{"title":"多媒体软件开发工程师-Pico","code":"RL2V","job_type":"客户端","min_salary":25,"max_salary":60,"city":"北京","hc":1}
+{"title":"iOS研发工程师（基础技术）-今日头条","code":"7BH1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":15}
+{"title":"Unity研发工程师-Pico","code":"7GFV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"移动端leader-飞书业务中台","code":"X5TL","job_type":"客户端","min_salary":45,"max_salary":100,"city":"北京","hc":2}
+{"title":"iOS研发工程师-国际化短视频商业化","code":"78EP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"Android开发工程师 — 剪映/相机","code":"81561","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":10}
+{"title":"C++浏览器开发工程师-pico","code":"J7RSL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":10}
+{"title":"Camera软件开发工程师-Pico","code":"7GU2","job_type":"客户端","min_salary":25,"max_salary":60,"city":"北京","hc":2}
+{"title":"Android开发工程师—今日头条青春版","code":"SNJL","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"客户端工程师-跨端方向","code":"8DU2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":5}
+{"title":"高级Android开发工程师 — 基础技术","code":"JUM1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":10}
+{"title":"客户端安全高级研发","code":"LETP","job_type":"客户端","min_salary":40,"max_salary":80,"city":"北京","hc":1}
+{"title":"高级服务端开发工程师 - 短视频（隐私安全）","code":"DX9V","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"iOS研发工程师-生活服务","code":"659V","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":5}
+{"title":"高级Android开发工程师-抖音支付","code":"D9007","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":2}
+{"title":"Android研发工程师（社区方向） - 剪映","code":"EBLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"iOS开发工程师—今日头条","code":"WFJL","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"iOS 开发工程师-飞书开放平台","code":"J4U21","job_type":"客户端","min_salary":40,"max_salary":60,"city":"北京","hc":5}
+{"title":"Android研发工程师-生活服务 ","code":"J5N9V","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":5}
+{"title":"iOS开发工程师 — 抖音直播社区","code":"GWSV","job_type":"客户端","min_salary":30,"max_salary":50,"city":"深圳","hc":15}
+{"title":"客户端跨平台工程师 - 短视频","code":"E59V","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"iOS资深研发工程师 - 抖音基础技术方向","code":"JU6F1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":5}
+{"title":"客户端安全工程师 — 穿山甲","code":"3JBL","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":5}
+{"title":"iOS研发工程师","code":"LT8V","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":10}
+{"title":"iOS研发工程师（工具方向） - 国际化剪映","code":"J7NLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"跨平台研发专家/工程师（Flutter/Android/iOS/Web/PC）-- 移动中台","code":"JN7LP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"iOS开发工程师-基础技术","code":"JHWR1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":15}
+{"title":" Android客户端负责人 — 国际化直播","code":"UBF1","job_type":"客户端","min_salary":50,"max_salary":90,"city":"深圳","hc":1}
+{"title":"Android开发工程师-抖音/直播","code":"B62","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":20}
+{"title":"iOS研发工程师（社区方向） - 剪映","code":"MBLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"iOS开发（高级）工程师 - 业务中台","code":"J4691","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":15}
+{"title":"推理引擎工程师","code":"GJVP","job_type":"客户端","min_salary":25,"max_salary":60,"city":"上海","hc":5}
+{"title":"iOS研发工程师-短视频（杭州）","code":"JKA3P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":10}
+{"title":"Android开发工程师 - 懂车帝","code":"ECL","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":3}
+{"title":"高级iOS开发工程师-抖音支付","code":"G9380","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":2}
+{"title":"平台后端研发工程师-移动端隐私合规","code":"8F9V","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":10}
+{"title":"Android/iOS开发工程师-云游戏","code":"J6QCL","job_type":"客户端","min_salary":22,"max_salary":44,"city":"深圳","hc":10}
+{"title":"Android研发高级工程师 — 抖音用户增长","code":"RWQL","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":20}
+{"title":"Android研发工程师（基础技术方向） - 剪映","code":"7LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"Android高级开发工程师 - 国际化短视频（内容发现方向）","code":"JE89V","job_type":"客户端","min_salary":30,"max_salary":65,"city":"上海","hc":4}
+{"title":"移动端编译构建专家","code":"JBTN1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"Android研发工程师（工具方向） - 国际化剪映","code":"JQNLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"客户端负责人 - 短视频","code":"JWS3P","job_type":"客户端","min_salary":50,"max_salary":100,"city":"上海","hc":5}
+{"title":"抖音搜索iOS研发工程师","code":"JSRAL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"Android开发（高级）工程师 - 抖音音乐（北京）","code":"J3532","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"C++/Linux客户端研发工程师-产品研发和工程架构部","code":"S0619","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":20}
+{"title":"iOS研发工程师（基础技术）-今日头条","code":"JHNJL","job_type":"客户端","min_salary":20,"max_salary":40,"city":"广州","hc":15}
+{"title":"iOS研发工程师（工具方向） - 剪映","code":"JHBLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"高级Android多媒体开发工程师-pico","code":"W3482","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":1}
+{"title":"客户端软件安全工程师","code":"UKJL","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"BSP内核工程师-Pico","code":"D3811","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":2}
+{"title":"Android应用开发工程师-Pico","code":"JKP2V","job_type":"客户端","min_salary":50,"max_salary":80,"city":"北京","hc":2}
+{"title":"客户端全栈工程师-抖音基础技术方向","code":"JY4U1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":10}
+{"title":"Andriod研发工程师-ohayoo","code":"JKFFP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"北京","hc":20}
+{"title":"Windows资深研发工程师","code":"K3K1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":15}
+{"title":"iOS Leader-房产（北京）","code":"JTP22","job_type":"客户端","min_salary":40,"max_salary":100,"city":"北京","hc":4}
+{"title":"Android研发工程师（工具方向） - 剪映","code":"JCCLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"游戏研发工程师（Gameplay方向）2022","code":"Q9WV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":1}
+{"title":"风控情报客户端分析工程师","code":"W8586","job_type":"客户端","min_salary":25,"max_salary":70,"city":"深圳","hc":3}
+{"title":"Android开发工程师—今日头条热点","code":"A4964","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"iOS开发（高级）工程师 - 抖音音乐（北京）","code":"NH32","job_type":"客户端","min_salary":30,"max_salary":70,"city":"北京","hc":5}
+{"title":"抖音搜索Android研发工程师","code":"QGYV","job_type":"客户端","min_salary":25,"max_salary":60,"city":"北京","hc":10}
+{"title":"Android研发工程师（商业化方向） - 国际化剪映","code":"JYWLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"iOS研发工程师（社区方向） - 剪映","code":"FALL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"iOS研发高级工程师 — 抖音用户增长","code":"J5MQL","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":20}
+{"title":"高级音视频编码工程师-Pico","code":"JM8SL","job_type":"客户端","min_salary":40,"max_salary":75,"city":"北京","hc":5}
+{"title":"Graphics性能优化技术专家-Pico","code":"JJS5V","job_type":"客户端","min_salary":50,"max_salary":100,"city":"上海","hc":5}
+{"title":"iOS研发工程师-抖音-隐私合规","code":"X9164","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":10}
+{"title":"Android系统性能优化负责人-Pico","code":"LYFL","job_type":"客户端","min_salary":40,"max_salary":70,"city":"深圳","hc":20}
+{"title":"飞书KA客户端运维工程师","code":"J6YTL","job_type":"客户端","min_salary":25,"max_salary":45,"city":"深圳","hc":5}
+{"title":"iOS研发工程师（社区方向） - 国际化剪映","code":"RGLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"客户端工程师 - 飞书品质建设（深圳/北京）","code":"Q8707","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":2}
+{"title":"Unity3D/U3D客户端主程-Pico","code":"B0843","job_type":"客户端","min_salary":40,"max_salary":80,"city":"上海","hc":4}
+{"title":"客户端研发负责人-商业化","code":"K0830","job_type":"客户端","min_salary":40,"max_salary":80,"city":"北京","hc":1}
+{"title":"IOS研发工程师 — 商业化","code":"JYV6L","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"Android研发工程师 - 短视频产品基础体验优化（北京/上海/杭州）","code":"JDS7L","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":4}
+{"title":"Android研发工程师 — 商业化","code":"G45L","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"Android研发工程师（商业化方向） - 剪映","code":"JFALL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"移动端leader-飞书业务中台","code":"J2EAL","job_type":"客户端","min_salary":45,"max_salary":100,"city":"杭州","hc":2}
+{"title":"iOS开发工程师-飞书日历","code":"T6316","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":2}
+{"title":"Android Framework开发工程师-Pico","code":"JCLFL","job_type":"客户端","min_salary":25,"max_salary":40,"city":"北京","hc":2}
+{"title":"Android开发技术专家-飞书日历","code":"Z6817","job_type":"客户端","min_salary":50,"max_salary":70,"city":"北京","hc":2}
+{"title":"OpenGLES/Vulkan高级开发工程师-Pico","code":"9KSV","job_type":"客户端","min_salary":30,"max_salary":80,"city":"上海","hc":2}
+{"title":"Unity研发工程师-Pico","code":"L1212","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":10}
+{"title":"Android研发工程师（商业化方向） - 剪映","code":"TCLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"Mac研发专家（飞连）- 火山引擎","code":"W9357","job_type":"客户端","min_salary":40,"max_salary":70,"city":"北京","hc":2}
+{"title":"iOS研发工程师（基础技术）-今日头条","code":"O3132","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":15}
+{"title":"Android系统稳定性开发工程师-Pico","code":"G79L","job_type":"客户端","min_salary":40,"max_salary":70,"city":"北京","hc":5}
+{"title":"生产工具软件开发工程师-Pico","code":"N6025","job_type":"客户端","min_salary":20,"max_salary":40,"city":"青岛","hc":1}
+{"title":"iOS开发专家 - 飞书","code":"J0333","job_type":"客户端","min_salary":40,"max_salary":70,"city":"深圳","hc":10}
+{"title":"Android开发（高级）工程师-小说","code":"82XJ1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":15}
+{"title":"Android开发技术专家","code":"V6430","job_type":"客户端","min_salary":40,"max_salary":70,"city":"深圳","hc":10}
+{"title":"Android研发工程师-抖音即时通讯","code":"Y8343","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"Unity3D/U3D客户端主程-Pico","code":"K2079","job_type":"客户端","min_salary":40,"max_salary":80,"city":"北京","hc":4}
+{"title":"移动端leader-飞书文档","code":"Z1506","job_type":"客户端","min_salary":50,"max_salary":100,"city":"武汉","hc":1}
+{"title":"iOS应用开发工程师-Pico","code":"Z5032","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":1}
+{"title":"iOS研发工程师（商业化方向） - 剪映","code":"J7WLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"客户端研发工程师 - 抖音（成都）","code":"JJBNL","job_type":"客户端","min_salary":25,"max_salary":50,"city":"成都","hc":10}
+{"title":"Unity高级工程师-Pico","code":"D3691","job_type":"客户端","min_salary":35,"max_salary":65,"city":"青岛","hc":2}
+{"title":"Android逆向研发工程师-ohayoo","code":"GJFP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"北京","hc":10}
+{"title":"验证码客户端Android/iOS开发工程师 ","code":"RWBV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":5}
+{"title":"iOS开发工程师 — 抖音直播","code":"B4WP","job_type":"客户端","min_salary":30,"max_salary":50,"city":"广州","hc":15}
+{"title":"Android资深研发工程师 - 懂车帝","code":"JSBU2","job_type":"客户端","min_salary":25,"max_salary":55,"city":"北京","hc":3}
+{"title":"iOS资深研发工程师-抖音电商C端","code":"RXHQ1","job_type":"客户端","min_salary":35,"max_salary":45,"city":"北京","hc":4}
+{"title":"Android端研发负责人 — 国际化产品","code":"J6BLL","job_type":"客户端","min_salary":40,"max_salary":70,"city":"上海","hc":1}
+{"title":"客户端iOS研发工程师 ","code":"8DUM1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"iOS 资深研发工程师-内容发现","code":"95GP","job_type":"客户端","min_salary":35,"max_salary":55,"city":"杭州","hc":1}
+{"title":"C++开发工程师（客户端）- 飞书（北京/成都）","code":"9A91","job_type":"客户端","min_salary":50,"max_salary":80,"city":"北京","hc":5}
+{"title":"Android/iOS开发（高级）工程师-皮皮虾","code":"Q1S1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"短视频-Android工程师","code":"JWW3P","job_type":"客户端","min_salary":25,"max_salary":40,"city":"上海","hc":15}
+{"title":"Android研发工程师-抖音社交","code":"7PC1","job_type":"客户端","min_salary":20,"max_salary":50,"city":"上海","hc":5}
+{"title":"iOS开发工程师 - 懂车帝","code":"83LL1","job_type":"客户端","min_salary":25,"max_salary":35,"city":"北京","hc":3}
+{"title":"SDK技术支持工程师（Unreal）-Pico","code":"J1L5V","job_type":"客户端","min_salary":20,"max_salary":50,"city":"北京","hc":1}
+{"title":"iOS开发（高级）工程师-音乐","code":"JGPEP","job_type":"客户端","min_salary":20,"max_salary":70,"city":"杭州","hc":10}
+{"title":"PC客户端开发工程师 — lark","code":"81MM1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":5}
+{"title":"iOS开发高级/资深工程师","code":"J8BV1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":15}
+{"title":"Android开发（高级）工程师","code":"G8B1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"上海","hc":10}
+{"title":"游戏主程序-朝夕光年","code":"8TTH1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":2}
+{"title":"跨平台音视频SDK研发工程师-Windows方向","code":"9X2P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"Windows 开发工程师-飞书（北京/成都）","code":"4K1","job_type":"客户端","min_salary":50,"max_salary":80,"city":"北京","hc":5}
+{"title":"游戏引擎开发专家-绿洲-朝夕光年","code":"JPW81","job_type":"客户端","min_salary":40,"max_salary":80,"city":"北京","hc":1}
+{"title":"Android 研发负责人 - 懂车帝","code":"TT52","job_type":"客户端","min_salary":30,"max_salary":60,"city":"重庆","hc":1}
+{"title":"iOS基础技术Leader","code":"JKUM1","job_type":"客户端","min_salary":50,"max_salary":100,"city":"上海","hc":1}
+{"title":"客户端研发工程师(iOS)-广告创意中心","code":"KJBP","job_type":"客户端","min_salary":20,"max_salary":60,"city":"北京","hc":5}
+{"title":"Android研发工程师-抖音","code":"KMCP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":20}
+{"title":"iOS开发工程师 - 住小帮","code":"JQM3P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":4}
+{"title":"Windows直播研发工程师-视频架构","code":"GPKV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"客户端工程师-跨端方向","code":"JBGMV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":5}
+{"title":"iOS开发实习生（可转正） — 飞书","code":"SN61","job_type":"客户端","min_salary":5,"max_salary":10,"city":"深圳","hc":10}
+{"title":"Android研发工程师 — 商业化","code":"JFDQP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"北京","hc":10}
+{"title":"iOS Tech Leader-番茄小说","code":"JXYXP","job_type":"客户端","min_salary":40,"max_salary":80,"city":"深圳","hc":2}
+{"title":"Android开发（高级）工程师-端智能","code":"42Q2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"游戏技术美术-朝夕光年","code":"R9TH1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"杭州","hc":2}
+{"title":"客户端Android/iOS研发工程师","code":"QR81","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"Android开发工程师 — 垂直业务","code":"8CVQ1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":2}
+{"title":"iOS 开发专家 ","code":"JJA4P","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":4}
+{"title":"Android基础技术工程师-编译构建","code":"7T3P","job_type":"客户端","min_salary":20,"max_salary":60,"city":"杭州","hc":5}
+{"title":"iOS研发工程师-生活服务","code":"JH36V","job_type":"客户端","min_salary":28,"max_salary":55,"city":"成都","hc":5}
+{"title":"Android开发工程师 - 短视频（用户增长方向）","code":"J5D3P","job_type":"客户端","min_salary":25,"max_salary":40,"city":"上海","hc":10}
+{"title":"客户端技术负责人-游戏业务","code":"JXE12","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":2}
+{"title":"Android开发（高级）工程师 -音乐","code":"9REP","job_type":"客户端","min_salary":20,"max_salary":70,"city":"杭州","hc":10}
+{"title":"短视频-Android高级工程师","code":"HF3P","job_type":"客户端","min_salary":30,"max_salary":50,"city":"上海","hc":10}
+{"title":"Android架构师 - 抖音（成都）","code":"9W51","job_type":"客户端","min_salary":30,"max_salary":60,"city":"成都","hc":5}
+{"title":"Android Framework工程师","code":"NNLP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":10}
+{"title":"SDK架构师-飞书","code":"JHCM1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":5}
+{"title":"PC 端C++开发工程师（Chromium） — 飞书（北京/上海）","code":"J4CM1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":1}
+{"title":"Android leader—今日头条","code":"JLRL1","job_type":"客户端","min_salary":40,"max_salary":80,"city":"深圳","hc":1}
+{"title":"虚拟机开发（高级）工程师","code":"4GCP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"资深客户端开发工程师 — 飞书","code":"JYV31","job_type":"客户端","min_salary":20,"max_salary":40,"city":"上海","hc":5}
+{"title":"iOS开发工程师—搜索方向","code":"BXJ1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":15}
+{"title":"Android研发工程师 — 住小帮","code":"8R3P","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":10}
+{"title":"高级iOS开发工程师 - 剪映","code":"VPL1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":3}
+{"title":"高级iOS开发工程师-成人与创新","code":"RKRQ1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":1}
+{"title":"高级游戏客户端开发工程师-绿洲-朝夕光年","code":"JYQ81","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"Android研发工程师-广告系统","code":"5VF1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":6}
+{"title":"iOS资深研发工程师  - 基础体验优化","code":"3L3V","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":15}
+{"title":"Android/iOS开发工程师（实习）-国际化直播","code":"JUL8P","job_type":"客户端","min_salary":25,"max_salary":40,"city":"广州","hc":20}
+{"title":"iOS研发负责人-抖音直播","code":"PRQV","job_type":"客户端","min_salary":50,"max_salary":90,"city":"北京","hc":2}
+{"title":"Android开发（高级）工程师 - 技术中台方向","code":"JAH41","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":20}
+{"title":"Android开发工程师 - 懂车帝","code":"NEK2","job_type":"客户端","min_salary":25,"max_salary":35,"city":"杭州","hc":3}
+{"title":"Android/iOS 开发工程师（智能创作方向）","code":"JLFVV","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":4}
+{"title":"Windows直播研发工程师-视频架构","code":"J6PKV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"iOS研发高级工程师 - 学浪","code":"JDWN1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"Android研发工程师-生活服务","code":"JYT6V","job_type":"客户端","min_salary":25,"max_salary":45,"city":"成都","hc":5}
+{"title":"Android架构师-抖音电商C端","code":"J7PU2","job_type":"客户端","min_salary":35,"max_salary":55,"city":"杭州","hc":20}
+{"title":"客户端研发工程师-国际化电商","code":"JK92V","job_type":"客户端","min_salary":20,"max_salary":35,"city":"北京","hc":10}
+{"title":"基础架构开发工程师-PC端-教育线","code":"SXFP","job_type":"客户端","min_salary":30,"max_salary":50,"city":"上海","hc":10}
+{"title":"Android开发leader-飞书","code":"YY42","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":3}
+{"title":"Android研发负责人 — 抖音（杭州）","code":"81EW1","job_type":"客户端","min_salary":40,"max_salary":70,"city":"杭州","hc":5}
+{"title":"Android客户端负责人-抖音","code":"JU5KP","job_type":"客户端","min_salary":50,"max_salary":100,"city":"深圳","hc":1}
+{"title":"资深客户端研发工程师/架构师-抖音跨平台","code":"ATC1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":10}
+{"title":"Android研发-生活服务","code":"M86V","job_type":"客户端","min_salary":40,"max_salary":60,"city":"上海","hc":10}
+{"title":"iOS架构师 - 抖音社交","code":"8MH51","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"iOS研发工程师（商业化方向） - 剪映","code":"J9LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"iOS开发（高级）工程师","code":"4BB1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"上海","hc":10}
+{"title":"Unity3D 开发工程师","code":"JARVV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":1}
+{"title":"客户端研发工程师 - iOS/安卓方向/PC方向","code":"J3YSP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"北京","hc":5}
+{"title":"抖音Android高级工程师 - 搜索方向","code":"U7X1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"Android研发工程师-抖音电商商家平台","code":"6U9V","job_type":"客户端","min_salary":20,"max_salary":35,"city":"北京","hc":20}
+{"title":"iOS开发（高级）工程师 - 技术中台方向","code":"JQR41","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":20}
+{"title":"资深Android研发工程师 — 抖音商业化","code":"JHM2P","job_type":"客户端","min_salary":40,"max_salary":80,"city":"北京","hc":3}
+{"title":"iOS研发工程师 — 抖音创作工具","code":"JGTA1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":5}
+{"title":"游戏安全iOS客户端工程师","code":"JXLRP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"抖音iOS基础技术 - Swift方向 - iOS资深研发工程师","code":"JRSCP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":8}
+{"title":"UE4游戏通用引擎开发（资深）工程师-无双工作室-朝夕光年","code":"NLQP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"iOS研发工程师-抖音社交","code":"BPC1","job_type":"客户端","min_salary":20,"max_salary":50,"city":"上海","hc":5}
+{"title":"iOS资深研发工程师-抖音iOS基础技术","code":"J23S2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":10}
+{"title":"网络协议研发工程师/专家 ","code":"LWU1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"Windows直播研发工程师-视频架构","code":"QYDV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"iOS开发（高级）工程师-端智能","code":"DLQ2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"渲染引擎（高级）开发工程师","code":"J4GCP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"Android研发工程师 — 抖音/抖音火山版/直播","code":"J1AA1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"Android开发工程师—文档浏览方向","code":"J4GJP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"C++开发工程师——文档浏览方向","code":"JSAJP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"上海","hc":5}
+{"title":"iOS 安全研发工程师","code":"JJX9P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":1}
+{"title":"Android开发工程师 — 抖音直播","code":"JHDM1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"深圳","hc":15}
+{"title":"Android开发（高级）工程师 — 今日头条","code":"J5KBP","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":20}
+{"title":"Android Tech Leader-番茄小说","code":"4PDP","job_type":"客户端","min_salary":40,"max_salary":80,"city":"深圳","hc":2}
+{"title":"C++开发工程师—文档浏览方向","code":"SGJP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"高级iOS 开发工程师 （抖音开放平台）","code":"JQ59V","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"Android资深研发工程师-抖音电商C端","code":"4742","job_type":"客户端","min_salary":35,"max_salary":45,"city":"杭州","hc":20}
+{"title":"移动端Flutter开发-飞书","code":"J1PNP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":3}
+{"title":"客户端开发leader - 番茄小说","code":"JKFVP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":1}
+{"title":"Android开发工程师 — 抖音创作工具","code":"JPAA1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":5}
+{"title":"VR游戏移植工程师（unreal/unity）-Pico","code":"JBLVV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"BSP系统工程师-Pico","code":"3N5V","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":1}
+{"title":"Android开发（高级）工程师 - 国际支付","code":"JMC52","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":4}
+{"title":"Unity高级研发工程师 - 懂车帝","code":"JU7E1","job_type":"客户端","min_salary":15,"max_salary":25,"city":"北京","hc":1}
+{"title":"Android 开发工程师 （抖音开放平台）","code":"JVB8V","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":2}
+{"title":"多端互联开发工程师-Pico","code":"JDJ5V","job_type":"客户端","min_salary":25,"max_salary":40,"city":"北京","hc":1}
+{"title":"iOS开发（高级）工程师-小说","code":"JWJVP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":15}
+{"title":"C++高级开发工程师-Pico","code":"X1DV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"青岛","hc":5}
+{"title":"macOS研发工程师 - 飞书（北京/成都）","code":"43VV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"高级iOS客户端研发工程师 — 穿山甲","code":"RLQD1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":2}
+{"title":"iOS高级研发工程师 — 飞书视频会议","code":"88M31","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"Android开发工程师-创新业务","code":"JGASL","job_type":"客户端","min_salary":20,"max_salary":40,"city":"广州","hc":20}
+{"title":"资深Android开发工程师 — 飞书","code":"JXNY1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":5}
+{"title":"Android高级研发工程师-飞书视频会议","code":"MLS1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"客户端研发工程师/专家 - Android方向","code":"J5USP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"北京","hc":5}
+{"title":"客户端Android/iOS开发工程师-开言","code":"J73JP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":3}
+{"title":"iOS开发工程师-飞书文档","code":"6VYV","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":5}
+{"title":"移动端音视频开发工程师","code":"JQNQ1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"Audio软件开发工程师-Pico","code":"2WQV","job_type":"客户端","min_salary":25,"max_salary":60,"city":"北京","hc":1}
+{"title":"Flutter开发（高级）工程师-房产（北/上）","code":"JBM4P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"Android 开发工程师 — 开发者生态","code":"RYFX1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":2}
+{"title":"客户端跨平台工程师 - 短视频（隐私安全）","code":"WS3P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"客户端开发工程师-跨端方向","code":"J7XU1","job_type":"客户端","min_salary":20,"max_salary":60,"city":"杭州","hc":5}
+{"title":"Android Framework高级软件开发工程师","code":"VVH1","job_type":"客户端","min_salary":15,"max_salary":30,"city":"北京","hc":1}
+{"title":"iOS研发工程师-生活服务","code":"F46V","job_type":"客户端","min_salary":40,"max_salary":60,"city":"上海","hc":10}
+{"title":"iOS开发高级工程师 - 懂车帝","code":"8X1S1","job_type":"客户端","min_salary":25,"max_salary":35,"city":"北京","hc":3}
+{"title":"iOS架构师-短视频产品","code":"J53P","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":5}
+{"title":"iOS研发负责人 — 抖音/抖音火山版/直播","code":"J3TT1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"iOS开发（高级）工程师 - 国际支付","code":"VA52","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":4}
+{"title":"iOS研发工程师 — 商业化","code":"JK5QP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"北京","hc":10}
+{"title":"移动端研发专家 — 多媒体SDK","code":"RBGQ1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"验证码客户端Android/iOS开发工程师","code":"JVRBV","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":1}
+{"title":"macOS开发工程师 — lark","code":"J9MM1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":3}
+{"title":"智能创作解决方案研发工程师(C++/PC方向)","code":"LFVV","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":4}
+{"title":"客户端 Leader-生活服务","code":"JYG9V","job_type":"客户端","min_salary":50,"max_salary":75,"city":"杭州","hc":2}
+{"title":"iOS开发工程师-Cloud IDE","code":"2AQP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":15}
+{"title":"Android开发技术专家（北京/杭州/深圳）","code":"PH61","job_type":"客户端","min_salary":50,"max_salary":80,"city":"北京","hc":2}
+{"title":"客户端安全研发专家","code":"JGR9P","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":1}
+{"title":"资深移动端专家","code":"W7ML","job_type":"客户端","min_salary":50,"max_salary":80,"city":"上海","hc":2}
+{"title":"Android研发工程师（播放体验）-抖音基础技术","code":"63J1","job_type":"客户端","min_salary":30,"max_salary":55,"city":"北京","hc":10}
+{"title":"资深Android系统优化工程师-Pico","code":"JQASL","job_type":"客户端","min_salary":40,"max_salary":70,"city":"北京","hc":20}
+{"title":"Android研发负责人 — 抖音/抖音火山版/直播","code":"J88T1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"Android/iOS 开发工程师（智能创作方向）","code":"JRDRP","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":4}
+{"title":"Android研发工程师-生活服务","code":"JKUJ2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":30}
+{"title":"Android 开发工程师-飞书开放平台","code":"R1SR1","job_type":"客户端","min_salary":40,"max_salary":60,"city":"北京","hc":5}
+{"title":"Android/iOS开发（高级）工程师-小说","code":"RC1K1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"iOS研发工程师（社区方向） - 剪映","code":"JEBLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"iOS开发（高级）工程师-小说","code":"YXJ1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":15}
+{"title":"iOS自动化测试研发工程师-抖音iOS基础技术","code":"JJUJ2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":10}
+{"title":"iOS开发（高级）工程师 — 今日头条","code":"6KBP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":20}
+{"title":"资深iOS开发工程师","code":"KBLP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":2}
+{"title":"Android研发工程师-抖音社交","code":"PAY1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"iOS开发工程师-创新业务","code":"JSSL","job_type":"客户端","min_salary":20,"max_salary":40,"city":"广州","hc":20}
+{"title":"跨平台音视频SDK研发工程师-iOS/MacOS 方向","code":"PX2P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"iOS研发工程师-抖音电商","code":"SEWP","job_type":"客户端","min_salary":26,"max_salary":35,"city":"上海","hc":30}
+{"title":"Android开发工程师 — 抖音直播","code":"J7WP","job_type":"客户端","min_salary":30,"max_salary":50,"city":"广州","hc":15}
+{"title":"生产工具软件开发工程师-Pico","code":"JDG5V","job_type":"客户端","min_salary":25,"max_salary":40,"city":"北京","hc":1}
+{"title":"Android 开发工程师-飞书开放平台","code":"Q4M1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":3}
+{"title":"iOS研发高级工程师 — 用户增长方向","code":"RRM31","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":20}
+{"title":"抖音iOS基础技术 - Swift方向 - iOS架构师","code":"GRCP","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":8}
+{"title":"iOS研发工程师-生活服务","code":"J152","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":30}
+{"title":"iOS开发工程师-飞书开放平台","code":"JGH61","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":2}
+{"title":"Android研发工程师-短视频（杭州）","code":"JJG3P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":10}
+{"title":"Android研发工程师（商业化方向） - 国际化剪映","code":"RNLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"客户端研发工程师-抖音电商","code":"D7GP","job_type":"客户端","min_salary":35,"max_salary":45,"city":"上海","hc":20}
+{"title":"客户端安全高级研发","code":"X89P","job_type":"客户端","min_salary":40,"max_salary":70,"city":"深圳","hc":1}
+{"title":"高级iOS开发工程师 — 基础技术","code":"8W5D1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":10}
+{"title":"Android开发（高级）工程师 — 用户增长方向","code":"RJG21","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":3}
+{"title":"BSP内核工程师-Pico","code":"885V","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":1}
+{"title":"Android/iOS开发（高级）工程师-平台架构","code":"QVM1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":8}
+{"title":"Android开发工程师-飞书文档","code":"KECV","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":5}
+{"title":"跨平台客户端架构师-今日头条","code":"N1661A","job_type":"客户端","min_salary":40,"max_salary":80,"city":"三亚","hc":3}
+{"title":"iOS研发工程师 - 剪映素材生态","code":"JQTQL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"iOS研发工程师（商业化方向） - 国际化剪映","code":"66LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"iOS研发工程师（商业化方向） - 国际化剪映","code":"J59LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"iOS研发工程师（基础技术方向） - 国际化剪映","code":"J3NLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"Android研发工程师（商业化方向） - 国际化剪映","code":"HGLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"iOS研发工程师（社区方向） - 国际化剪映","code":"56LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"iOS研发工程师（社区方向） - 国际化剪映","code":"XALL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"Android研发工程师（基础技术方向） - 国际化剪映","code":"JRGLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"iOS研发工程师（工具方向） - 国际化剪映","code":"JJ6LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"iOS研发工程师（基础技术方向） - 剪映","code":"JACLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"Android研发工程师（社区方向） - 国际化剪映","code":"SNLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"iOS研发工程师（工具方向） - 国际化剪映","code":"3GLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":3}
+{"title":"Android研发工程师（工具方向） - 国际化剪映","code":"JJ9LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"Android研发工程师（社区方向） - 剪映","code":"J6LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"iOS研发工程师（工具方向） - 剪映","code":"JUBLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"Android研发工程师（工具方向） - 剪映","code":"D9LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"Android开发工程师","code":"8QNQ1","job_type":"客户端","min_salary":18,"max_salary":36,"city":"北京","hc":3}
+{"title":"iOS开发工程师","code":"88BL1","job_type":"客户端","min_salary":18,"max_salary":36,"city":"北京","hc":3}
+{"title":"Android开发工程师","code":"JCQDP","job_type":"客户端","min_salary":18,"max_salary":36,"city":"北京","hc":5}
+{"title":"Android 开发工程师 — 小程序","code":"J3RW1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":4}
+{"title":"Android工程师 — 抖音（杭州）","code":"RXLF1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":10}
+{"title":"iOS 开发工程师 — 小程序","code":"R53W1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":4}
+{"title":"客户端研发工程师/专家 - PC方向","code":"CWRP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":5}
+{"title":"游戏技术美术","code":"HWPP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":1}
+{"title":"iOS开发工程师 - 国际化直播","code":"JYWP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":3}
+{"title":"iOS开发工程师 — faceu","code":"GKL1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":5}
+{"title":"windows开发工程师","code":"9YL1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"Android开发工程师 - 国际化直播","code":"JH4WP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"iOS开发工程师","code":"R3DP","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"iOS开发高级工程师 - 飞书","code":"8AJK1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"高级Android开发工程师-成人与创新","code":"T3Q1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":1}
+{"title":"实时通信（音视频）客户端开发工程师 ","code":"N4XP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":3}
+{"title":"Android研发工程师 — 抖音智能终端","code":"JBE81","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"Windows客户端研发工程师","code":"JM6QP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":20}
+{"title":"Android研发工程师-国际化社区","code":"RBP1","job_type":"客户端","min_salary":20,"max_salary":35,"city":"北京","hc":4}
+{"title":"Android基础技术Leader","code":"RREM1","job_type":"客户端","min_salary":50,"max_salary":100,"city":"上海","hc":1}
+{"title":"游戏客户端开发工程师-绿洲-朝夕光年","code":"8AAH1","job_type":"客户端","min_salary":25,"max_salary":35,"city":"北京","hc":1}
+{"title":"Android开发（高级）工程师 - 游戏业务","code":"JV71P","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":20}
+{"title":"Android/iOS SDK开发工程师（企业产品方向）","code":"JCWEP","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":4}
+{"title":"Unity3D游戏开发工程师-绿洲-朝夕光年","code":"JTQA1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"Android高级开发工程师 — 终端技术","code":"JDLR1","job_type":"客户端","min_salary":25,"max_salary":40,"city":"北京","hc":10}
+{"title":"C++客户端高级研发工程师","code":"4WR1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":1}
+{"title":"AI-Lab 语音研发工程师 — 客户端方向","code":"RFQD1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":4}
+{"title":"客户端研发工程师/专家 - Android方向","code":"JYMRP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":5}
+{"title":"iOS研发工程师-国际化社区","code":"81EP1","job_type":"客户端","min_salary":20,"max_salary":35,"city":"北京","hc":5}
+{"title":"PCDN客户端研发工程师","code":"RWLQ1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":3}
+{"title":"iOS工程师 — 抖音（杭州）","code":"XLF1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":10}
+{"title":"iOS开发高级工程师","code":"8DYL1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":3}
+{"title":"iOS开发（高级）工程师 - 游戏业务","code":"J771P","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":20}
+{"title":"iOS开发工程师 — 飞书","code":"FWK1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":3}
+{"title":"客户端研发工程师-Data&AILab","code":"RVKD1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":10}
+{"title":"Android（高级）开发工程师 - 新业务","code":"JB9UP","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":10}
+{"title":"Flutter 工程师-客户端基础架构部","code":"4UN1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"iOS开发工程师-抖音","code":"Y84P","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":10}
+{"title":"高级Android开发工程师 — 教育","code":"RJHF1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":20}
+{"title":"PCDN客户端研发工程师","code":"J4JRP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"资深Android开发工程师-飞书","code":"JRCWP","job_type":"客户端","min_salary":35,"max_salary":70,"city":"广州","hc":3}
+{"title":"iOS开发（高级）工程师 - 国际支付","code":"UHP2","job_type":"客户端","min_salary":20,"max_salary":40,"city":"上海","hc":2}
+{"title":"智能创作解决方案研发工程师(iOS/Android方向)","code":"3VWP","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":4}
+{"title":"Android （高级）开发工程师 - 国际化电商达人生态","code":"J8QD2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":10}
+{"title":"Unity研发工程师-Pico","code":"JVKD2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":10}
+{"title":"移动端研发专家 — 多媒体SDK","code":"8DFL1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"iOS资深开发工程师 - 抖音性能优化方向","code":"JJEWP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":5}
+{"title":"客户端leader-房产","code":"JHT7P","job_type":"客户端","min_salary":40,"max_salary":100,"city":"北京","hc":1}
+{"title":"客户端安全研发工程师-Android 安全研发工程师","code":"JYW9P","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":10}
+{"title":"资深iOS开发工程师-飞书","code":"RG8R1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":3}
+{"title":"基础架构开发工程师-PC端-教育线","code":"H6WP","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"客户端研发工程师/专家 - iOS方向","code":"JNWRP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":5}
+{"title":"Android Tech Leader-西瓜视频","code":"JPQCP","job_type":"客户端","min_salary":35,"max_salary":45,"city":"厦门","hc":2}
+{"title":"iOS（高级）开发工程师-新业务","code":"4BUP","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":10}
+{"title":"Android开发工程师-抖音","code":"JXN4P","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":10}
+{"title":"Windows开发高级工程师 ","code":"JTJK1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"Android研发工程师-抖音","code":"RKVP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":3}
+{"title":"游戏引擎开发工程师-绿洲-朝夕光年","code":"PJH1","job_type":"客户端","min_salary":22,"max_salary":35,"city":"北京","hc":1}
+{"title":"客户端全栈工程师 - 抖音iOS基础技术","code":"5152","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":10}
+{"title":"（资深）Android研发工程师 — 直播","code":"JTJ1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":10}
+{"title":"Android高级研发工程师 - 懂车帝","code":"3PS1","job_type":"客户端","min_salary":25,"max_salary":55,"city":"北京","hc":3}
+{"title":"iOS开发工程师 — 飞书视频会议","code":"JEFR1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"iOS开发工程师-效率工程","code":"QNR1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":3}
+{"title":"Android研发工程师 - 抖音（成都）","code":"W51","job_type":"客户端","min_salary":25,"max_salary":50,"city":"成都","hc":10}
+{"title":"游戏AI研发工程师","code":"8Q4W1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":3}
+{"title":"iOS开发高级工程师 - 懂车帝","code":"JDF31","job_type":"客户端","min_salary":25,"max_salary":35,"city":"北京","hc":3}
+{"title":"Android开发工程师 — 飞书视频会议","code":"BCFP","job_type":"客户端","min_salary":20,"max_salary":40,"city":"杭州","hc":5}
+{"title":"客户端Leader - 教育","code":"J1GRP","job_type":"客户端","min_salary":40,"max_salary":70,"city":"上海","hc":1}
+{"title":"Android研发工程师-国际直播","code":"FDMP","job_type":"客户端","min_salary":25,"max_salary":60,"city":"北京","hc":30}
+{"title":"高级iOS开发工程师 — 终端技术","code":"R5B21","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"移动端跨平台框架开发工程师","code":"R5UQ1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"上海","hc":3}
+{"title":"Android/iOS开发工程师-西瓜视频","code":"2QCP","job_type":"客户端","min_salary":20,"max_salary":45,"city":"厦门","hc":5}
+{"title":"终端智能(AI)高级研发工程师","code":"JJWN1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"Android安全研发工程师","code":"7U8P","job_type":"客户端","min_salary":20,"max_salary":50,"city":"深圳","hc":5}
+{"title":"跨平台开发工程师","code":"JTHF1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":10}
+{"title":"跨平台客户端C++工程师-飞书","code":"86CP","job_type":"客户端","min_salary":40,"max_salary":70,"city":"成都","hc":5}
+{"title":"文档浏览引擎开发工程师","code":"7JVP","job_type":"客户端","min_salary":20,"max_salary":60,"city":"上海","hc":5}
+{"title":"Flutter工程师—移动平台","code":"Q8TP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"iOS安全研发工程师","code":"JM48P","job_type":"客户端","min_salary":20,"max_salary":60,"city":"深圳","hc":5}
+{"title":" Android leader-房产-上海","code":"JQS4P","job_type":"客户端","min_salary":40,"max_salary":70,"city":"上海","hc":2}
+{"title":"iOS开发（高级）工程师 - 音乐","code":"79Y1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":15}
+{"title":"虚拟机开发（高级）工程师","code":"J9P71","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"iOS研发负责人 - 抖音（成都）","code":"R9W51","job_type":"客户端","min_salary":35,"max_salary":70,"city":"成都","hc":1}
+{"title":"iOS架构师 - 抖音基础技术","code":"VUA1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":5}
+{"title":"C++开发（高级）工程师 — 开放平台方向","code":"87S1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"跨平台客户端C++工程师-飞书","code":"J2NBP","job_type":"客户端","min_salary":40,"max_salary":70,"city":"上海","hc":5}
+{"title":"Android高级开发工程师 — 国际化直播","code":"SSAP","job_type":"客户端","min_salary":40,"max_salary":80,"city":"广州","hc":10}
+{"title":"iOS开发（高级）工程师 - 技术社区","code":"XPDP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":6}
+{"title":"iOS高级开发工程师 - 短视频产品（用户增长方向）","code":"JHK3P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"实时通信SDK研发工程师(北京/上海/杭州)","code":"J1JK1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"Android/iOS开发（高级）工程师-西瓜视频","code":"RSGF1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"Android资深研发工程师-抖音电商C端","code":"3TC1","job_type":"客户端","min_salary":35,"max_salary":45,"city":"上海","hc":5}
+{"title":"UE4开发（资深）工程师-无双工作室-朝夕光年","code":"JBD2P","job_type":"客户端","min_salary":30,"max_salary":50,"city":"上海","hc":3}
+{"title":"Android研发Leader-抖音电商C端","code":"AMKP","job_type":"客户端","min_salary":35,"max_salary":55,"city":"上海","hc":1}
+{"title":"iOS 资深研发工程师-直播","code":"MF3P","job_type":"客户端","min_salary":20,"max_salary":60,"city":"杭州","hc":10}
+{"title":"客户端研发工程师-Android-广告创意中心","code":"Y4RP","job_type":"客户端","min_salary":35,"max_salary":70,"city":"上海","hc":5}
+{"title":"Android核心研发工程师 - 国际直播","code":"JYR5V","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":20}
+{"title":"iOS开发工程师（中级/高级）","code":"8Y4K1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":3}
+{"title":"Windows客户端研发工程师","code":"AEW1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":5}
+{"title":"文档浏览引擎开发工程师","code":"JJ5JP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"客户端研发负责人-电商方向","code":"J4W7P","job_type":"客户端","min_salary":45,"max_salary":65,"city":"北京","hc":2}
+{"title":"Android开发工程师 - 抖音创作工具","code":"86YH1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"深圳","hc":5}
+{"title":"Android开发工程师 - 抖音创作工具","code":"JDKU1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"广州","hc":5}
+{"title":"客户端Android/iOS开发工程师-抖音直播（北京/上海/深圳/杭州/成都）","code":"8HFD1","job_type":"客户端","min_salary":50,"max_salary":80,"city":"北京","hc":30}
+{"title":"iOS 开发工程师 — 小程序","code":"JNFX1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":2}
+{"title":"Android研发工程师 — 直播","code":"J2GR1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":10}
+{"title":"客户端跨端leader-抖音（杭州）","code":"JQVWP","job_type":"客户端","min_salary":40,"max_salary":80,"city":"杭州","hc":1}
+{"title":"跨平台开发工程师-游戏安全","code":"JV3YP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"Android研发负责人 - 抖音（成都）","code":"J1W51","job_type":"客户端","min_salary":35,"max_salary":70,"city":"成都","hc":1}
+{"title":"Windows开发工程师","code":"8CXQ1","job_type":"客户端","min_salary":20,"max_salary":50,"city":"上海","hc":5}
+{"title":"C++开发（高级/资深）工程师","code":"GXCP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":10}
+{"title":"高级iOS开发工程师 — 飞书","code":"8LFK1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":3}
+{"title":"端智能应用工程师（iOS/Android）","code":"2HVP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"Android隐私安全工程师","code":"JM512","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":2}
+{"title":"Android开发（高级）工程师 - 音乐","code":"P9Y1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"深圳","hc":15}
+{"title":"iOS开发工程师 — 飞书视频会议","code":"KGFP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"杭州","hc":5}
+{"title":"Android架构师 - 抖音","code":"JUBF1","job_type":"客户端","min_salary":25,"max_salary":40,"city":"深圳","hc":11}
+{"title":"C++开发工程师 — 客户端","code":"RN2V1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":3}
+{"title":"Android（高级）开发工程师-西瓜视频","code":"JR7D1","job_type":"客户端","min_salary":25,"max_salary":60,"city":"杭州","hc":10}
+{"title":"C++开发（高级/资深）工程师","code":"8GEM1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"RTC引擎资深研发工程师","code":"J7GGP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":2}
+{"title":"iOS开发（高级）工程师 - 抖音音乐","code":"J3PC1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"iOS研发工程师（基础技术方向） - 国际化剪映","code":"YWLL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"Android开发工程师——文档浏览方向","code":"BTJP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"上海","hc":5}
+{"title":"iOS开发（高级）工程师-房产（北/上/杭）","code":"A34P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"游戏引擎开发工程师-朝夕光年","code":"R8TH1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"杭州","hc":3}
+{"title":"UE4游戏开发工程师","code":"3LA1","job_type":"客户端","min_salary":20,"max_salary":35,"city":"北京","hc":10}
+{"title":"技术顾问（企业产品方向）","code":"JJXRP","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":4}
+{"title":"iOS核心研发工程师 - 国际直播","code":"JDF5V","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":20}
+{"title":"智能创作解决方案研发工程师(C++/PC方向)","code":"E3WP","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":4}
+{"title":"客户端开发（高级）工程师-房产（北/上/杭）","code":"JW94P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"iOS研发工程师- 抖音（成都）","code":"R1W51","job_type":"客户端","min_salary":25,"max_salary":50,"city":"成都","hc":5}
+{"title":"高级iOS开发工程师-抖音/火山直播","code":"QW22","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":20}
+{"title":"游戏引擎开发工程师","code":"81KW1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"iOS架构师 - 抖音（成都）","code":"RRM51","job_type":"客户端","min_salary":30,"max_salary":60,"city":"成都","hc":5}
+{"title":"Android客户端负责人-互娱研发","code":"8UW1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":1}
+{"title":"iOS高级开发工程师 - 国际化直播","code":"JP28P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":15}
+{"title":"客户端安全研发工程师-iOS 安全研发工程师","code":"JAF9P","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":10}
+{"title":"Android开发（高级）工程师-房产（北/上/杭）","code":"RH4P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"iOS核心研发工程师 - 国际直播","code":"BQ5V","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":20}
+{"title":"iOS客户端负责人-抖音/抖音火山版/直播/影像","code":"U5KP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":1}
+{"title":"iOS基础技术leader","code":"CKC1","job_type":"客户端","min_salary":40,"max_salary":70,"city":"北京","hc":2}
+{"title":"移动端音视频开发工程师","code":"J7AQ1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"全栈工程师 — 抖音移动平台","code":"TBG1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"成都","hc":5}
+{"title":"iOS Leader - 抖音","code":"P6SP","job_type":"客户端","min_salary":40,"max_salary":70,"city":"上海","hc":1}
+{"title":"游戏语音SDK 架构师/工程师（RTC方向）—视频架构","code":"TCQP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"客户端高级开发工程师-幸福里","code":"VV7P","job_type":"客户端","min_salary":40,"max_salary":80,"city":"上海","hc":1}
+{"title":"Android开发（高级）工程师 - 音乐","code":"J82C1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":5}
+{"title":"iOS开发工程师 - 重庆 - 懂车帝","code":"JSSVP","job_type":"客户端","min_salary":25,"max_salary":35,"city":"重庆","hc":3}
+{"title":"多媒体研发专家-RTC","code":"A4DV","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":10}
+{"title":"iOS资深研发工程师 - 国际化短视频产品","code":"JR63P","job_type":"客户端","min_salary":35,"max_salary":60,"city":"上海","hc":15}
+{"title":"iOS开发工程师（中级/高级） — 飞书","code":"8WWK1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":3}
+{"title":"Android研发工程师（社区方向） - 国际化剪映","code":"J17LL","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":3}
+{"title":"高级客户端研发工程师（iOS）— 穿山甲","code":"8PB1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"上海","hc":5}
+{"title":"高级iOS开发工程师 - 剪映","code":"JDFAP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":3}
+{"title":"引擎开发工程师","code":"8EHF1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":10}
+{"title":"Android开发工程师","code":"8H4W1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"广州","hc":20}
+{"title":"移动端leader - 抖音（成都）","code":"N891","job_type":"客户端","min_salary":35,"max_salary":70,"city":"成都","hc":1}
+{"title":"Android开发（高级）工程师 - 国际支付","code":"JEHP2","job_type":"客户端","min_salary":20,"max_salary":40,"city":"上海","hc":2}
+{"title":"跨平台音视频SDK研发工程师-Linux方向","code":"J6D2P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"客户端全栈工程师 - 抖音iOS基础技术","code":"J43S2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":10}
+{"title":"iOS（高级）研发工程师 - 抖音（成都）","code":"RCC51","job_type":"客户端","min_salary":30,"max_salary":60,"city":"成都","hc":10}
+{"title":"客户端研发工程师/专家 - PC方向","code":"JABSP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"北京","hc":5}
+{"title":"移动端音视频直播SDK开发工程师","code":"JG3RP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"实时通信C++软件开发工程师","code":"WXGP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"iOS/Android 技术专家-飞书","code":"JRLGP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":10}
+{"title":"iOS开发工程师 - 懂车帝","code":"J62J2","job_type":"客户端","min_salary":25,"max_salary":35,"city":"杭州","hc":3}
+{"title":"iOS隐私安全工程师","code":"9N12","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":2}
+{"title":"游戏服务器引擎开发工程师-朝夕光年","code":"R41M1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"杭州","hc":3}
+{"title":"iOS开发工程师 — 抖音直播","code":"J5XM1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"深圳","hc":15}
+{"title":"iOS架构师-抖音社交","code":"JG2C1","job_type":"客户端","min_salary":35,"max_salary":60,"city":"上海","hc":5}
+{"title":"全栈工程师 — 移动平台","code":"JBWKP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"成都","hc":5}
+{"title":"iOS客户端负责人-抖音/抖音火山版/直播/影像","code":"M1FP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":1}
+{"title":"iOS开发工程师——文档浏览方向","code":"J9TJP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"上海","hc":5}
+{"title":"客户端架构师-教育","code":"JJDRP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":10}
+{"title":"iOS 研发工程师-短视频产品","code":"JV162","job_type":"客户端","min_salary":35,"max_salary":55,"city":"杭州","hc":5}
+{"title":"C++客户端开发工程师","code":"869F1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"杭州","hc":5}
+{"title":"短视频-Android架构师","code":"JMK3P","job_type":"客户端","min_salary":30,"max_salary":60,"city":"上海","hc":10}
+{"title":"客户端Android/iOS开发工程师-抖音青少年","code":"X96P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"Android开发（高级）工程师 - 技术中台方向","code":"82A61","job_type":"客户端","min_salary":25,"max_salary":45,"city":"北京","hc":10}
+{"title":"程序分析工程师","code":"JQV91","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":15}
+{"title":"智能创作跨平台研发工程师-抖音","code":"JN6WP","job_type":"客户端","min_salary":30,"max_salary":50,"city":"广州","hc":5}
+{"title":"Android研发工程师（品质体验）——抖音基础技术","code":"JKA9P","job_type":"客户端","min_salary":30,"max_salary":55,"city":"北京","hc":10}
+{"title":"Android开发工程师—今日头条","code":"JTWJ1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"Android资深研发工程师-抖音电商C端","code":"85PS1","job_type":"客户端","min_salary":35,"max_salary":45,"city":"北京","hc":3}
+{"title":"Android隐私安全工程师","code":"JE512","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":2}
+{"title":"跨平台客户端C++工程师-飞书","code":"JJSHP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":5}
+{"title":"Rust/C++工程师","code":"8PJS1","job_type":"客户端","min_salary":50,"max_salary":80,"city":"北京","hc":1}
+{"title":"Android 开发（高级）工程师","code":"J1KU1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"游戏安全反外挂工程师","code":"JERYP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"Android系统软件工程师(图形方向)","code":"JLWU1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"Android研发工程师 — 抖音基础技术","code":"8YLF1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"iOS开发工程师 - 短视频产品（用户增长方向）","code":"JRF3P","job_type":"客户端","min_salary":25,"max_salary":40,"city":"上海","hc":5}
+{"title":"iOS（高级）开发工程师-教育","code":"JAYWP","job_type":"客户端","min_salary":23,"max_salary":45,"city":"上海","hc":20}
+{"title":"Camera底层研发Leader-Pico","code":"JTPV","job_type":"客户端","min_salary":45,"max_salary":60,"city":"北京","hc":1}
+{"title":"高级iOS开发工程师 — 教育","code":"JQBM1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":5}
+{"title":"西瓜客户端研发工程师 - Android/iOS","code":"JSGL1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":20}
+{"title":"Android架构师-抖音社交","code":"JVPC1","job_type":"客户端","min_salary":35,"max_salary":60,"city":"上海","hc":5}
+{"title":"Flutter工程师-移动平台部","code":"81WJ1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"Android开发高级工程师","code":"J57L1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":3}
+{"title":"iOS开发（高级）工程师","code":"J3DU1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"Android SDK研发工程师（厂商技术方向）","code":"RC451","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":5}
+{"title":"iOS高级研发工程师_抖音/直播","code":"JUXVP","job_type":"客户端","min_salary":30,"max_salary":70,"city":"北京","hc":5}
+{"title":"C++/PC客户端研发工程师（XR相关方向）","code":"5DPV","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":4}
+{"title":"Android 研发工程师 - 短视频（上海）","code":"JMS3P","job_type":"客户端","min_salary":25,"max_salary":70,"city":"上海","hc":10}
+{"title":"iOS 开发（高级）工程师 — 开放平台方向","code":"R48Q1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"客户端研发Leader-抖音电商C端","code":"JRPRP","job_type":"客户端","min_salary":45,"max_salary":65,"city":"上海","hc":3}
+{"title":"资深Android研发工程师—商业化","code":"J3GSP","job_type":"客户端","min_salary":40,"max_salary":80,"city":"北京","hc":10}
+{"title":"Android（高级）开发工程师 - 国际化电商","code":"J89S2","job_type":"客户端","min_salary":20,"max_salary":40,"city":"广州","hc":10}
+{"title":"iOS（高级）开发工程师 - 国际化电商","code":"EKS2","job_type":"客户端","min_salary":20,"max_salary":40,"city":"广州","hc":10}
+{"title":"Unity3D开发工程师（创新项目方向）-朝夕光年","code":"54W1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"杭州","hc":3}
+{"title":"客户端底层开发工程师-飞书","code":"XES2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":3}
+{"title":"高级Android开发工程师 — 剪映/相机","code":"J7SAP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"三亚","hc":10}
+{"title":"Android/iOS开发工程师 — 教育产品","code":"8UGH1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"北京","hc":20}
+{"title":"客户端高级工程师 - 隐私合规","code":"H89P","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"UE4客户端技术专家-绿洲-朝夕光年","code":"JRXKP","job_type":"客户端","min_salary":40,"max_salary":80,"city":"北京","hc":3}
+{"title":"Unity3D引擎开发工程师（大世界管线）-朝夕光年","code":"8P6W1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"杭州","hc":3}
+{"title":"Android研发工程师 — 住小帮","code":"JEM3P","job_type":"客户端","min_salary":30,"max_salary":50,"city":"杭州","hc":10}
+{"title":"iOS 开发工程师—今日头条关系探索方向","code":"VSS2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"音视频开发工程师-今日头条","code":"997P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":15}
+{"title":"Android开发高级工程师 - 学浪","code":"8MN1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"iOS研发工程师 - 国际化短视频","code":"JAX3P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":10}
+{"title":"Android架构师-抖音电商C端","code":"BPTP","job_type":"客户端","min_salary":35,"max_salary":55,"city":"上海","hc":10}
+{"title":"UE5高级开发工程师 (数字人方向) -朝夕光年","code":"AJ22","job_type":"客户端","min_salary":30,"max_salary":45,"city":"杭州","hc":1}
+{"title":"Android开发工程师—头条搜索","code":"JLYQ2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":1}
+{"title":"智能创作解决方案研发工程师(iOS/Android方向)","code":"W5VV","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":4}
+{"title":"Android研发工程师 - 抖音内容生态","code":"857X1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"Android架构师 - 抖音社交","code":"JMH51","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"Android开发高级工程师","code":"JM4W1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":20}
+{"title":"iOS开发（高级）工程师 — 今日头条","code":"HT61","job_type":"客户端","min_salary":20,"max_salary":40,"city":"广州","hc":20}
+{"title":"iOS 开发（高级）工程师-教育","code":"H7XP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":10}
+{"title":"Android开发（高级）工程师-基础技术","code":"JL691","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":15}
+{"title":"客户端开发负责人","code":"JEEDV","job_type":"客户端","min_salary":50,"max_salary":80,"city":"三亚","hc":10}
+{"title":"Android高级开发工程师-Pico","code":"JY2X2","job_type":"客户端","min_salary":20,"max_salary":60,"city":"青岛","hc":2}
+{"title":"Android（高级）开发工程师 - 教育","code":"JK4WP","job_type":"客户端","min_salary":23,"max_salary":45,"city":"上海","hc":20}
+{"title":"iOS资深研发工程师-抖音电商C端","code":"JUTC1","job_type":"客户端","min_salary":35,"max_salary":45,"city":"上海","hc":5}
+{"title":"客户端研发工程师/专家 - iOS方向","code":"JMESP","job_type":"客户端","min_salary":20,"max_salary":50,"city":"北京","hc":5}
+{"title":"Android架构师 - 懂车帝","code":"JAT52","job_type":"客户端","min_salary":60,"max_salary":120,"city":"北京","hc":3}
+{"title":"音视频开发工程师-今日头条","code":"EV91","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":15}
+{"title":"高级客户端研发工程师（Android）— 穿山甲","code":"U141","job_type":"客户端","min_salary":30,"max_salary":50,"city":"上海","hc":5}
+{"title":"Android开发（高级）工程师-教育","code":"A4XP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":10}
+{"title":"iOS研发工程师 — 直播","code":"82GR1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"北京","hc":10}
+{"title":"iOS研发工程师-端智能方向","code":"SEJ2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":10}
+{"title":"Android研发工程师_抖音直播","code":"NPVP","job_type":"客户端","min_salary":40,"max_salary":80,"city":"北京","hc":6}
+{"title":"西瓜视频客户端技术负责人","code":"JDVCP","job_type":"客户端","min_salary":40,"max_salary":50,"city":"北京","hc":1}
+{"title":"Android开发工程师 — 飞书","code":"8QS51","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":5}
+{"title":"C++开发（高级/资深）工程师","code":"DCV1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"Android核心研发工程师 - 国际直播","code":"J9Q5V","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":20}
+{"title":"Android Framework工程师","code":"J9KU1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"游戏安全客户端工程师","code":"M2H1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"客户端研发工程师-iOS-广告创意中心","code":"J6URP","job_type":"客户端","min_salary":35,"max_salary":70,"city":"上海","hc":5}
+{"title":"高级Android开发工程师-抖音用户增长","code":"8R4R1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"深圳","hc":5}
+{"title":"WebRTC 客户端 SDK 开发工程师","code":"J8X2P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":4}
+{"title":"客户端研发Leader-抖音电商C端","code":"BXRP","job_type":"客户端","min_salary":45,"max_salary":65,"city":"杭州","hc":3}
+{"title":"C++/PC客户端研发工程师（XR相关方向）","code":"HVV","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":4}
+{"title":"跨平台SDK研发工程师-音视频-飞书","code":"H2NP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":4}
+{"title":"Android 开发（高级）工程师 — 开放平台方向","code":"8C9Q1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"智能创作跨平台研发工程师-抖音","code":"C6WP","job_type":"客户端","min_salary":30,"max_salary":50,"city":"深圳","hc":5}
+{"title":"Android/iOS SDK开发工程师（企业产品方向）","code":"JM5VV","job_type":"客户端","min_salary":30,"max_salary":60,"city":"广州","hc":4}
+{"title":"跨平台音视频SDK研发工程师 - Android 方向","code":"J1X2P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"客户端研发专家 — 多媒体方向","code":"JJCH1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"iOS开发工程师-技术社区","code":"J2SY2","job_type":"客户端","min_salary":25,"max_salary":45,"city":"北京","hc":10}
+{"title":"iOS （高级）开发工程师 - 国际化电商","code":"JA56P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"客户端研发工程师(Android)-广告创意中心 ","code":"JWGBP","job_type":"客户端","min_salary":20,"max_salary":60,"city":"北京","hc":5}
+{"title":"客户端Leader-西瓜视频","code":"KVCP","job_type":"客户端","min_salary":40,"max_salary":50,"city":"厦门","hc":1}
+{"title":"iOS基础技术研发工程师- 抖音","code":"G7RP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":5}
+{"title":"Android（高级）研发工程师 - 抖音（成都）","code":"R3T51","job_type":"客户端","min_salary":30,"max_salary":60,"city":"成都","hc":10}
+{"title":"Android Tech Leader-番茄小说","code":"J6EXP","job_type":"客户端","min_salary":40,"max_salary":80,"city":"广州","hc":2}
+{"title":"Android高级研发工程师 - 懂车帝","code":"JTFPV","job_type":"客户端","min_salary":25,"max_salary":35,"city":"重庆","hc":3}
+{"title":"游戏客户端开发专家-绿洲-朝夕光年","code":"JNS81","job_type":"客户端","min_salary":40,"max_salary":80,"city":"北京","hc":5}
+{"title":"Android开发（高级）工程师 - 技术社区","code":"JXPDP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":10}
+{"title":"iOS研发负责人-抖音","code":"JCQR1","job_type":"客户端","min_salary":30,"max_salary":50,"city":"深圳","hc":5}
+{"title":"客户端工程师-跨端方向","code":"JQQU2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":5}
+{"title":"iOS开发（高级）工程师 - 技术中台方向","code":"CT61","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":100}
+{"title":"Flutter框架方向 Leader/工程师","code":"JHQJ1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"杭州","hc":10}
+{"title":"多媒体技术负责人-RTC","code":"SYDV","job_type":"客户端","min_salary":50,"max_salary":100,"city":"三亚","hc":1}
+{"title":"iOS架构师-抖音电商C端","code":"73U2","job_type":"客户端","min_salary":35,"max_salary":55,"city":"杭州","hc":20}
+{"title":"客户端开发工程师","code":"8NES1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":4}
+{"title":"iOS研发工程师 — 抖音/抖音火山版/直播","code":"6TA1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":10}
+{"title":"Android开发工程师-Pico","code":"J97X2","job_type":"客户端","min_salary":25,"max_salary":70,"city":"北京","hc":20}
+{"title":"iOS开发工程师—文档浏览方向","code":"J1XJP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":10}
+{"title":"Android开发（高级）工程师 — 今日头条","code":"8AC61","job_type":"客户端","min_salary":20,"max_salary":40,"city":"广州","hc":20}
+{"title":"iOS架构师-抖音iOS基础技术","code":"23S2","job_type":"客户端","min_salary":30,"max_salary":60,"city":"深圳","hc":10}
+{"title":"直播音视频SDK研发工程师","code":"42CP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":5}
+{"title":"iOS研发工程师-国际直播","code":"JBHMP","job_type":"客户端","min_salary":25,"max_salary":60,"city":"北京","hc":30}
+{"title":"Android 开发（高级）工程师 — 用户增长方向","code":"JYK5P","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":15}
+{"title":"iOS leader—今日头条","code":"81RL1","job_type":"客户端","min_salary":40,"max_salary":80,"city":"深圳","hc":1}
+{"title":"iOS研发负责人 — 抖音社交","code":"JBALP","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":5}
+{"title":"iOS研发工程师-抖音","code":"J8QCP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":20}
+{"title":"iOS-抖音","code":"LFVP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"北京","hc":3}
+{"title":"客户端 Leader-生活服务","code":"PE6V","job_type":"客户端","min_salary":50,"max_salary":80,"city":"上海","hc":10}
+{"title":"Android开发高级/资深工程师","code":"8E9V1","job_type":"客户端","min_salary":25,"max_salary":50,"city":"深圳","hc":15}
+{"title":"iOS（高级）开发工程师 - 国际化电商达人生态","code":"J4CX2","job_type":"客户端","min_salary":25,"max_salary":50,"city":"上海","hc":8}
+{"title":"Android平台架构研发工程师","code":"8XYH1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":15}
+{"title":"抖音Android架构师-稳定性方向","code":"86LW1","job_type":"客户端","min_salary":30,"max_salary":60,"city":"北京","hc":3}
+{"title":"Android开发（高级）工程师-小说","code":"WJVP","job_type":"客户端","min_salary":25,"max_salary":50,"city":"广州","hc":15}
+{"title":"高级Android开发工程师 — 剪映/相机","code":"F8L1","job_type":"客户端","min_salary":20,"max_salary":40,"city":"深圳","hc":10}
